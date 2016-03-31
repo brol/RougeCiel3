@@ -1,0 +1,8 @@
+v1.0 - 01-04-2016 - Pierre Van Glabeke
+* reprise thème initial de Maurice Svay pour dotclear 1
+* html5
+* héritage de thème, mustek
+* css3
+* random bannière avec 3 images
+* configurateur pour deux largeurs (750px ou 1000px)
+* dc 2.9 requis

@@ -1,0 +1,22 @@
+/*
+# ***** BEGIN LICENSE BLOCK *****
+#
+# Rouge Ciel 3
+# Theme by Pierre Van Glabeke for Dotclear 2
+# Licensed under the GPL version 2.0 license.
+# A copy of this license is available in LICENSE file at
+# http://www.gnu.org/licenses/old-licenses/gpl-2.0.html
+#
+# ***** END LICENSE BLOCK *****
+*/
+#page,
+#banner,
+#main {
+	width:750px;
+}
+.round0 { background : transparent url(../img/750/round0.jpg) no-repeat top left; }
+.round1 { background : transparent url(../img/750/round1.jpg) no-repeat top left; }
+.round2 { background : transparent url(../img/750/round2.jpg) no-repeat top left; }
+#content {
+  width: 480px;
+}
