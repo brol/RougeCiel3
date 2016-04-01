@@ -3,8 +3,8 @@ Rouge Ciel 3
 Le configurateur permet de choisir quelle largeur de page vous voulez (750px ou 1000px).
 
 Dimensions pour les images de bannière :
-- affichage 880 : 750px x 150px
-- affichage 1024 : 1000px x 150px
+- affichage 750 : 750px x 150px
+- affichage 1000 : 1000px x 150px
 
 Si vous voulez en ajouter d'autres, il est impératif de se conformer aux règles suivantes :
 - les nommer de manière identique "roundX.ext" où X est un chiffre
