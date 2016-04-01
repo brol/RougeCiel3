@@ -10,8 +10,8 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Poedit 1.5.7\n"
 
-msgid "Customizations"
-msgstr "Personnalisations"
+msgid "Customization"
+msgstr "Personnalisation"
 
 msgid "Display width:"
 msgstr "Largeur d'affichage :"

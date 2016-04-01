@@ -68,7 +68,7 @@ if (!empty($_POST))
 
 # Width type
 echo
-'<div class="fieldset"><h4>'.__('Customizations').'</h4>'.
+'<div class="fieldset"><h4>'.__('Customization').'</h4>'.
 '<p class="field"><label>'.__('Display width:').'</label>'.
 form::combo('RougeCiel3_width',$RougeCiel3_width_combo,$my_width).
 '</p>'.
