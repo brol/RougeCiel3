@@ -13,9 +13,10 @@ $this->registerModule(
 	/* Name */			    "Rouge Ciel 3",
 	/* Description*/		"Etoilé pour blog bien inspiré",
 	/* Author */			  "Pierre Van Glabeke",
-	/* Version */			  '1.1',
+	/* Version */			  '1.2',
 	array(
 		'type'	 =>	'theme',
-		'tplset' => 'mustek'
+		'tplset' => 'mustek',
+		'dc_min' => '2.9'
 	)
 );
