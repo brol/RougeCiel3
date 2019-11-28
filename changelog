@@ -1,14 +1,15 @@
-v1.2.1 - 11-11-2017 - Pierre Van Glabeke
+v1.2.1 - 27/11/2019 - Pierre Van Glabeke
 * localisation
+* modif breadcrumb
 
-v1.2 - 03-11-2017 - Pierre Van Glabeke
+v1.2 - 03/11/2017 - Pierre Van Glabeke
 * modifs html et css
 * modifs localisation
 
-v1.1 - 01-04-2016 - Pierre Van Glabeke
+v1.1 - 01/04/2016 - Pierre Van Glabeke
 * corrections mineures et autres oublis
 
-v1.0 - 31-03-2016 - Pierre Van Glabeke
+v1.0 - 31/03/2016 - Pierre Van Glabeke
 * reprise thème initial de Maurice Svay pour dotclear 1
 * html5
 * héritage de thème, mustek
